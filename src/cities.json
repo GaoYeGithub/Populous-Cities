@@ -1,0 +1,16 @@
+[
+  {
+    "recordid": "toronto",
+    "fields": {
+      "name": "Toronto",
+      "coordinates": [43.7, -79.42]
+    }
+  },
+  {
+    "recordid": "new-york",
+    "fields": {
+      "name": "New York",
+      "coordinates": [40.7128, -74.0060]
+    }
+  }
+]
